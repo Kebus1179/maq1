@@ -13,6 +13,6 @@ Dépendances à placer:
 ++ CHANGELOG ++
 
 v0.1 : création structure
-.....: création composant AppSearch
+  création composant AppSearch
 v0.2 : création composant AppResult
-.....: bug, utilisation des hooks React
+  bug, utilisation des hooks React
