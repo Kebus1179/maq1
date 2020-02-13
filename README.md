@@ -1,8 +1,8 @@
 # maq1
 
-+++++++++++++++++++++++++++++++++++++++
-+++++++++++++ DEPENDANCES++++++++++++++
-+++++++++++++++++++++++++++++++++++++++
+
+++ DEPENDANCES ++
+
 Dépendances à placer: 
   - React
   - react-dom
@@ -10,11 +10,9 @@ Dépendances à placer:
   - @material-ui/core
   - @material-ui/icons
 
-+++++++++++++++++++++++++++++++++++++++
-++++++++++++++ CHANGELOG ++++++++++++++
-+++++++++++++++++++++++++++++++++++++++
+++ CHANGELOG ++
+
 v0.1 : création structure
 .....: création composant AppSearch
 v0.2 : création composant AppResult
 .....: bug, utilisation des hooks React
-+++++++++++++++++++++++++++++++++++++++
